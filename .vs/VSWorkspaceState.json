@@ -1,16 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\src",
-    "\\src\\app",
-    "\\src\\app\\actor-component",
-    "\\src\\app\\actors-component",
-    "\\src\\app\\convertisseur-component",
-    "\\src\\app\\model",
-    "\\src\\app\\template-driven-form",
-    "\\src\\app\\to-euro-convert-component",
-    "\\src\\environments"
+    ""
   ],
-  "SelectedNode": "\\src\\app\\actors-component\\actors-component.component.html",
   "PreviewInSolutionExplorer": false
 }
